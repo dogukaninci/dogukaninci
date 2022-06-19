@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! :beginner: I'm Dogukan</h1>
-<div align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="100"  /> </div>
+<div align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="300"  /> </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukaninci&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="dogukaninci" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukaninci&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true&theme=onedark" alt="dogukaninci" /></a> </p>
 <p>
 
 
