@@ -1,4 +1,5 @@
 <h2 align="center">Hello there! :beginner: I'm Dogukan</h1>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukaninci&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="dogukaninci" /></a> </p>
 <p>
@@ -18,8 +19,8 @@
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://www.swift.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="swift" width="30" height="30"/> </a> 
-<a href="https://developer.apple.com/documentation/uikit" target="_blank" rel=”noopener”> <img src="http://omnicode.am/pic/services/uikit.png" alt="uikit" width="33" height="30"/> </a> 
+<a href="https://www.swift.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="swift" width="50" height="50"/> </a> 
+<a href="https://developer.apple.com/documentation/uikit" target="_blank" rel=”noopener”> <img src="http://omnicode.am/pic/services/uikit.png" alt="uikit" width="50" height="50"/> </a> 
   
 </p>
 
