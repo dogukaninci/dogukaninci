@@ -24,9 +24,9 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukaninci&show_icons=true&theme=gradient&locale=en&layout=compact" alt="dogukaninci" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukaninci&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="dogukaninci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukaninci&show_icons=true&theme=gradient&locale=en" alt="dogukaninci" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukaninci&show_icons=true&theme=highcontrast&locale=en" alt="dogukaninci" width="50%" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukaninci&label=Profile%20views&color=0e75b6&style=flat" alt="dogukaninci" /> </p>
 
 
